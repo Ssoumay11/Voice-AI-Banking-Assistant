@@ -1,0 +1,7 @@
+speechrecognition
+pyttsx3
+pyaudio
+opencv-python
+numpy
+sounddevice
+scipy
