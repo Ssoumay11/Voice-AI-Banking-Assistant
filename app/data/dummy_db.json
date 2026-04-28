@@ -1,0 +1,16 @@
+[
+  {
+    "user_id": 1,
+    "name": "Soumay Verma",
+    "account_number": "XXXX1234",
+    "bank_name": "HDFC Bank",
+    "balance": 50000
+  },
+  {
+    "user_id": 2,
+    "name": "Rohit Mehta",
+    "account_number": "XXXX5678",
+    "bank_name": "SBI",
+    "balance": 72000
+  }
+]
